@@ -1,0 +1,4 @@
+1. getStaticProps helps you to get data from filesystem or database at build time, also register the paths to next js framework such that when user goes to
+   a certain path, you have the page  with populated data.
+2. getStaticPaths helps you to get paths from filesystem at build time.
+3. 
